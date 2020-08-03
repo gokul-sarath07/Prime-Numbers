@@ -1,5 +1,5 @@
 #!/bin/bash -x
-echo "Prime Numbers Simulation"
+echo "Prime"
 read -p "Enter a number: " num
 for (( i=2; i<$num; i++ ))
 do
